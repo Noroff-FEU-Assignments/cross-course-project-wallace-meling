@@ -16,7 +16,7 @@ nav li {
     color: ghostwhite;
     outline: ghostwhite;
     text-decoration: underline;
-    float: inline-end;
+    float: none;
 }
 nav a {
     color: floralwhite;
