@@ -50,12 +50,11 @@ img {
     padding: 15px;
     background-color: white;
 } 
-fieldset{
-.floated1{
-    float:inline-start
+.games{
+    display: flex;
 }
-.floated2{
-    float: inline-end;
-    
-}
-}
+.game{
+    flex: 1;
+    padding: 10px;
+    margin: 10px;
+  }
