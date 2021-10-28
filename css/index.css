@@ -42,3 +42,6 @@ main{
     flex-flow: row;
     border-image-width: 150px;
 }
+img {
+    max-width: 100px;
+} 
