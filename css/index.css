@@ -39,5 +39,5 @@ nav a:hover{
 }
 main{
     flex-direction: row;
-    
+    border-image-width: 10%;
 }
