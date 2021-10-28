@@ -30,8 +30,8 @@ nav a:hover{
 }
 .active{
     background-color:  white;
-    text-decoration: red;
-    background-size: 15px
+    color: red;
+    
 }
 .inactive{
     background-color: red;
