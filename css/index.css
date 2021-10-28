@@ -31,8 +31,7 @@ nav a:hover{
 .active{
     background-color:  white;
     color: red;
-    padding: 0px;
-    background-size: cover;
+    background-size: auto
 }
 .inactive{
     background-color: red;
