@@ -14,9 +14,9 @@ body {
 nav li {
     display: inline-block;
     color: ghostwhite;
-    flex: 15px;
     outline: ghostwhite;
     text-decoration: underline;
+    
 }
 nav a {
     color: floralwhite;
