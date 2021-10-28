@@ -53,4 +53,12 @@ img {
 fieldset{
     flex-direction: row;
     flex-flow: row;
+
+.floated1{
+    float:inline-start
+}
+.floated2{
+    float: inline-end;
+    
+}
 }
