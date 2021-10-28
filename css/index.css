@@ -16,7 +16,7 @@ nav li {
     color: ghostwhite;
     flex: 15px;
     outline: ghostwhite;
-    box
+    text-decoration: underline;
 }
 nav a {
     color: floralwhite;
