@@ -13,6 +13,8 @@ body {
 }
 nav li {
     display: inline-block;
+    color: ghostwhite;
+    flex: 15px;
 }
 nav a {
     color: floralwhite;
