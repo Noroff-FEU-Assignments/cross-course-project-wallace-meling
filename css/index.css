@@ -51,9 +51,6 @@ img {
     background-color: white;
 } 
 fieldset{
-    flex-direction: row;
-    flex-flow: row;
-
 .floated1{
     float:inline-start
 }
