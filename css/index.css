@@ -50,3 +50,7 @@ img {
     padding: 15px;
     background-color: white;
 } 
+.games {
+    display: flex;
+        flex: 1;
+}
