@@ -77,5 +77,6 @@ img {
     image
 }
 #logo{
-flex: display: ; flex-shrink: ;
+flex:0
+flex-shrink: object-fit: ;;
 }
