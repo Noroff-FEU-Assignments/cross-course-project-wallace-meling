@@ -48,6 +48,7 @@ img {
     max-height: 300px;
     min-height: 300px;
     padding: 15px;
+    margin: 15px;
     background-color: white;
 } 
 .games {
@@ -59,4 +60,7 @@ img {
     float bottom:;right;
     margin-left: 60px;
     margin-top: 15px;
+}
+fieldset{
+
 }
