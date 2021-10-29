@@ -2,9 +2,12 @@ head{
     font-family: comic 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: floralwhite; 
     padding: 10px;
-    
-}
 
+}
+.logo{
+    max-width: 30px;
+    max-height: 30px;
+}
 
 body {
     background-color: #1D2540;
