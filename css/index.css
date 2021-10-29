@@ -21,6 +21,7 @@ nav li {
     margin-right: 30px;
     padding-left: 30px;
     padding-right: 30px;
+    background-color: red;
 }
 nav a {
     color: floralwhite;
