@@ -77,6 +77,5 @@ img {
     image
 }
 #logo{
-    max-height: 20px;
-    max-width: 20px;
+flex: display: ; flex-shrink: ;
 }
