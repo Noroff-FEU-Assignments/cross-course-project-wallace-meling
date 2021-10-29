@@ -4,11 +4,10 @@ head{
     padding: 10px;
 
 }
-.logo{
+img{
     max-width: 30px;
     max-height: 30px;
 }
-
 body {
     background-color: #1D2540;
 }
