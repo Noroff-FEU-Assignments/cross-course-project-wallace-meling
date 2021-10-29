@@ -22,6 +22,9 @@ nav li {
     padding-left: 30px;
     padding-right: 30px;
 }
+.header {
+    background-color: red;
+}
 nav a {
     color: floralwhite;
     text-decoration: none;
