@@ -12,16 +12,15 @@ body {
     font-family: 'comic sans', Verdana, sans-serif;
 }
 nav li {
-    display: inline-block;
+    display: inline;
     color: ghostwhite;
     outline: ghostwhite;
     text-decoration: underline;
-    float: none;
+    float: right;
     margin-left: 30px;
     margin-right: 30px;
     padding-left: 30px;
     padding-right: 30px;
-    background-color: red;
 }
 nav a {
     color: floralwhite;
