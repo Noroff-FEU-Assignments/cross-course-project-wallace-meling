@@ -71,3 +71,6 @@ img {
 .field{
     text-decoration: white;
 }
+#header{
+    box-sizing: 100px;
+}
