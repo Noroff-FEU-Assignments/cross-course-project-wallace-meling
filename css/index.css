@@ -55,9 +55,9 @@ main{
 }
 img {
     max-width: 300px;
-    min-width: 10px;
+    min-width: 50px;
     max-height: 300px;
-    min-height: 10px;
+    min-height: 50px;
     padding: 10px;
     margin: 10px;
     background-color: white;
