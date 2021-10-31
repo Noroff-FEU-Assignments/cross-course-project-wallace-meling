@@ -79,6 +79,7 @@ img {
 }
 #logo{
   margin-bottom: 0;
-   width: 20vw;
+   width: 30%;
+   height: 30%;
    image-sizing 34vw;
 }
