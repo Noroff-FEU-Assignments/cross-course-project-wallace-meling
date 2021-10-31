@@ -86,4 +86,7 @@ img {
    width: 30%;
    height: 30%;
    image-sizing 34vw;
+   object-fit: cover;
+   width: 30%;
+   height: 80px;
 }
