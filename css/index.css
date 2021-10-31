@@ -80,4 +80,5 @@ img {
 #logo{
 flex:0
 flex-shrink: object-fit:
+flex
 }
