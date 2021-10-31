@@ -23,7 +23,7 @@ body {
     font-family: 'comic sans', Verdana, sans-serif;
 }
 nav li {
-    display: inline-flex
+    display: inline
     color: ghostwhite;
     outline: ghostwhite;
     text-decoration: underline;
