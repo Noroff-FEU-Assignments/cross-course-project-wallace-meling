@@ -28,6 +28,7 @@ nav li {
 }
 .header {
     background-color: red;
+    mask-size: contain;
 }
 nav a {
     color: floralwhite;
