@@ -77,13 +77,13 @@ img {
     text-decoration: white;
 }
 #header{
-    box-sizing: 100px;
+    box-sizing: 500px;
     max-height: 100px;
-    justify-content: unset;
+    justify-content: 100px;
     flex:content
     img-responsive
     object-fit: cover;
-    width: 100%;
+    width: 500px;
     height: 80px;
 }
 #logo{
