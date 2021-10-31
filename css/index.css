@@ -78,6 +78,6 @@ img {
     flex:content
 }
 #logo{
-flex
-size: display: 50px; ;
+  margin-bottom: 0;
+   width: 39vw;
 }
