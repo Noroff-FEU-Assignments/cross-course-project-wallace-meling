@@ -78,7 +78,6 @@ img {
     flex:content
 }
 #logo{
-flex:0
-flex-shrink: object-fit:
 flex
+size: display: 50px; ;
 }
