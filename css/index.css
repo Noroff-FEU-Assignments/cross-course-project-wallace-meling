@@ -83,7 +83,7 @@ img {
     flex:content
     img-responsive
     object-fit: cover;
-    width: 30%;
+    width: 100%;
     height: 80px;
 }
 #logo{
