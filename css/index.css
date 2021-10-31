@@ -5,8 +5,9 @@
 }
 
 
-img GameHub_Logo.png {
-    width: 200%;
+img {
+    GameHub_Logo
+    width: 100%;
     height: auto;
   }
 
