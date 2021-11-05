@@ -1,5 +1,6 @@
 header{
     display: flex
     justify-content space-between
+    maxWidth height 10%
 
 }
