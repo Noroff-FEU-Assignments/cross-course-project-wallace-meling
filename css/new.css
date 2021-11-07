@@ -8,6 +8,7 @@ header{
     align-items: end;
     justify-content: space-between;
     position: relative;
+    margin: 20px;
 
 }
 .logo{
@@ -20,4 +21,5 @@ nav li{
     color: ghostwhite;
     outline: ghostwhite;
     text-decoration: underline;
+    text-size-adjust: 30px;
 }
