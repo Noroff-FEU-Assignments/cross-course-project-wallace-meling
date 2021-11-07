@@ -22,4 +22,5 @@ nav li{
     outline: ghostwhite;
     text-decoration: underline;
     text-size-adjust: 30px;
+    border: solid 10px;
 }
