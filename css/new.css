@@ -4,13 +4,20 @@ header{
     maxWidth height 10%
 
 }
+.header{
+    background-color: red;
+
+}
 .logo{
     width: 105px;
     height: 95px;
+    position: absolute;
+    display: flex
 }
 nav li{
     display: inline;
     color: ghostwhite;
     outline: ghostwhite;
     text-decoration: underline;
+    display: flex
 }
