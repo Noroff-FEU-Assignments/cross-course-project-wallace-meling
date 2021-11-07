@@ -13,7 +13,7 @@ header{
 .logo{
     width: 105px;
     height: 95px;
-    position: absolute;
+    position: relative;
 }
 nav li{
     display: inline;
