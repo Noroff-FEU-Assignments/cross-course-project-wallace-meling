@@ -4,3 +4,6 @@ header{
     maxWidth height 10%
 
 }
+.logo{
+    image-resolution: 100px 90px;
+}
