@@ -8,3 +8,9 @@ header{
     width: 105px;
     height: 95px;
 }
+nav li{
+    display: inline;
+    color: ghostwhite;
+    outline: ghostwhite;
+    text-decoration: underline;
+}
