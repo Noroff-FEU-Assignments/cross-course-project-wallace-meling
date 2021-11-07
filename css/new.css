@@ -5,5 +5,7 @@ header{
 
 }
 .logo{
-    image-resolution: 100px 90px;
+    width: 268px;
+    height: 96px;
+    position: fixed;
 }
