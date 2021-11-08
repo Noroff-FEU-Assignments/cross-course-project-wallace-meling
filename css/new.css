@@ -37,6 +37,15 @@ nav li{
 body{
     background-color:#5861B2
 }
+img{
+    max-width: 300px;
+    min-width: 300px;
+    max-height: 300px;
+    min-height: 300px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #1d2535;
+}
 .games{
  outline:2px solid;
  display: grid;
