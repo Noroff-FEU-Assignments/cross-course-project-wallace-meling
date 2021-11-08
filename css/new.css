@@ -26,10 +26,10 @@ nav li{
 .inactive {
     color:white;
     background-color:red;
-    padding:30px;
+    padding:10px;
 }
 .active {
     color:red;
     background-color: white;
-    padding: 30px;
+    padding: 10px;
 }
