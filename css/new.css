@@ -50,7 +50,7 @@ body{
     max-width: auto;
     
 }
-body{
+.images{
     display:grid;
     max-width:auto;
     max-height:400px;
