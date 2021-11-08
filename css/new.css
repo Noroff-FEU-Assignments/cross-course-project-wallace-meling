@@ -13,8 +13,8 @@ header{
 }
 .logo{
     display:flex;
-    max-width: 90px;
-    max-height: 80px;
+    max-width: 190px;
+    max-height: 175px;
     position: relative;
     background-color: red;
 }
