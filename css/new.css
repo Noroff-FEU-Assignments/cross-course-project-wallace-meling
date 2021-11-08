@@ -19,7 +19,7 @@ header{
 }
 nav li{
     display: inline;
-    color: ghostwhite;
+    color: black;
     outline: black;
     text-decoration: underline;
     text-size-adjust: 30px;
