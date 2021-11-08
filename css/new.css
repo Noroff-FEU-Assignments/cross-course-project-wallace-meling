@@ -51,13 +51,9 @@ body{
     
 }
 .images{
-    max-width:150px;
+    max-width:600px;
     max-height:auto;
     display:grid;
     grid-template-rows: 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr;
-}
-img{
-    max-width:150px;
-    max-height:auto;
 }
