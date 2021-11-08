@@ -8,10 +8,11 @@ header{
     align-items: end;
     justify-content: space-between;
     position: relative;
+    flex-grow: 1;
 
 }
 .logo{
-    display:flex
+    display:flex;
     max-width: 90px;
     max-height: 80px;
     position: relative;
