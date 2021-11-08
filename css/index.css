@@ -1,12 +1,9 @@
-}
-
 .form__input {
     display: block;
 }
 
 
 img {
-    GameHub_Logo
     width: 100%;
     height: auto;
   }
@@ -78,7 +75,7 @@ img {
 }
 .gamesb{
     
-    float bottom:;right;
+    float bottomright 
     margin-left: 30px;
     margin-top: 15px;
     text-decoration: white;
