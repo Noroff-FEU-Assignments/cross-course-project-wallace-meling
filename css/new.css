@@ -44,3 +44,7 @@ body{
  justify-content: space-between;
 
 }
+.games_homepage{
+    max-height: 200;
+    max-width:auto;
+}
