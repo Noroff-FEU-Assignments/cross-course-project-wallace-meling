@@ -44,7 +44,7 @@ body{
  outline:2px solid;
  display: grid inline;
  grid-template-columns: 1fr 1fr 1fr;
+ grid-template-rows: 1fr 1fr;
  justify-content: space-between;
-
 
 }
