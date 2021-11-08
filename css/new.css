@@ -49,10 +49,10 @@ body{
  flex-direction: row;
 }
 .images_s{
-   display:grid;
+   display:flex grid;
    grid-template-columns: 1fr 1fr 1fr;
 }
 section{
-    display:grid;
+    display:flex grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
