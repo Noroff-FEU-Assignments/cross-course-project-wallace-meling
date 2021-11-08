@@ -42,22 +42,9 @@ body{
 }
 .games{
  outline:2px solid;
- display: grid;
+ display: grid inline;
  grid-template-columns: 1fr 1fr 1fr;
  justify-content: space-between;
 
-}
-.games_homepage{
-    display:grid;
-    max-height: 200px;
-    max-width: auto;
-    
-}
-.images{
-    display:grid;
-    max-width:auto;
-    max-height:200px;
-    grid-template-rows: 1fr 1fr 1fr;
-    grid-template-columns: 1fr 1fr;
-    display:inline
+
 }
