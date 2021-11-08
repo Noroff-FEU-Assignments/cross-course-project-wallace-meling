@@ -56,12 +56,11 @@ body{
 .images{
     display:grid;
     max-width:auto;
-    max-height:400px;
+    max-height:200px;
     grid-template-rows: 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr;
 }
 .fifa22{
     max-width: 200px;
     max-height:auto;
-    position: fixed;
 }
