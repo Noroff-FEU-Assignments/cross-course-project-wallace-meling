@@ -59,6 +59,7 @@ body{
     max-height:200px;
     grid-template-rows: 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr;
+    display:inline
 }
 .fifa22{
     max-width: 200px;
