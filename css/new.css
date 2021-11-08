@@ -40,6 +40,6 @@ body{
 .games{
  outline:2px solid;
  display: flex grid;
- max width: 100px;
- max height: 200xp
+ max-width:100px;
+ max-height:200px;
 }
