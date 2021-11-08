@@ -26,10 +26,10 @@ nav li{
     border: solid 1px;
 }
 .inactive {
-    text-decoration-color: white;
+    text-anchor: white;
     background-color:red;
 }
 .active {
-    text-decoration-color:red;
+    text-anchor:red;
     background-color: white;
 }
