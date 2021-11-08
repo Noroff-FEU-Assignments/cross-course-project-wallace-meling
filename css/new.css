@@ -24,12 +24,12 @@ nav li{
     border: solid 1px;
 }
 .inactive {
-    color:black;
+    color:white;
     background-color:red;
     padding:10px;
 }
 .active {
-    color:red;
-    background-color: white;
+    color:black;
+    background-color: red;
     padding: 10px;
 }
