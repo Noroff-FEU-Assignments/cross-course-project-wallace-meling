@@ -9,6 +9,7 @@ header{
     justify-content: space-between;
     position: relative;
     margin: 20px;
+    
 
 }
 .logo{
@@ -19,8 +20,8 @@ header{
 nav li{
     display: inline;
     color: ghostwhite;
-    outline: ghostwhite;
+    outline: black;
     text-decoration: underline;
     text-size-adjust: 30px;
-    border: solid 10px;
+    border: solid 1px;
 }
