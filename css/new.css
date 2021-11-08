@@ -19,17 +19,15 @@ header{
 }
 nav li{
     display: inline;
-    color: black;
-    outline: black;
     text-decoration: underline;
     text-size-adjust: 30px;
     border: solid 1px;
 }
 .inactive {
-    text-anchor: white;
+    color:white;
     background-color:red;
 }
 .active {
-    text-anchor:red;
+    color:red;
     background-color: white;
 }
