@@ -50,3 +50,10 @@ body{
     max-width: auto;
     
 }
+.images{
+    max-width:150px;
+    max-height:auto;
+    display:grid;
+    grid-template-rows: 1fr auto;
+    grid-template-columns: auto 1fr;
+}
