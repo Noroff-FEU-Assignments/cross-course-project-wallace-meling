@@ -24,8 +24,8 @@ nav li{
     border: solid 1px;
 }
 .inactive {
-    color:white;
-    background-color:red;
+    color:red;
+    background-color:black;
     padding:10px;
 }
 .active {
