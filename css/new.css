@@ -42,7 +42,6 @@ body{
 }
 .games{
  outline:2px solid;
- display: grid inline;
+ display: inline;
  justify-content: space-between;
-
 }
