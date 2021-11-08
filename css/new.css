@@ -25,3 +25,11 @@ nav li{
     text-size-adjust: 30px;
     border: solid 1px;
 }
+.inactive {
+    text-decoration-color: white;
+    background-color:red;
+}
+.active {
+    text-decoration-color:red;
+    background-color: white;
+}
