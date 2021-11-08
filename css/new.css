@@ -38,7 +38,8 @@ nav li{
     padding: 10px;
 }
 body{
-    background-color:#5861B2
+    background-color:#5861B2;
+    image-rendering: inline;
 }
 .games{
  outline:2px solid;
