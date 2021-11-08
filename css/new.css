@@ -61,7 +61,3 @@ body{
     grid-template-columns: 1fr 1fr;
     display:inline
 }
-.fifa22{
-    max-width: 200px;
-    max-height:auto;
-}
