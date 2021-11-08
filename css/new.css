@@ -50,14 +50,10 @@ body{
     max-width: auto;
     
 }
-.images{
+body{
     display:grid;
     max-width:auto;
     max-height:400px;
     grid-template-rows: 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr;
-}
-body{
-    max-height: 500px;
-    max-width: auto;
 }
