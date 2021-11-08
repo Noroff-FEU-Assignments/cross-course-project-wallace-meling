@@ -40,7 +40,7 @@ body{
 .games{
  outline:2px solid;
  display: flex grid;
- max-width:500px;
+ max-width:350px;
  max-height:1000px;
  display: flex;
  justify-content: space-between;
