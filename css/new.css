@@ -54,6 +54,10 @@ body{
     max-width:150px;
     max-height:auto;
     display:grid;
-    grid-template-rows: 1fr auto;
-    grid-template-columns: auto 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+}
+img{
+    max-width:150px;
+    max-height:auto;
 }
