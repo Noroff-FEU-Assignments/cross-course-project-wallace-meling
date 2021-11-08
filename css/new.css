@@ -57,3 +57,7 @@ body{
     grid-template-rows: 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr;
 }
+body{
+    max-height: 500px;
+    max-width: auto;
+}
