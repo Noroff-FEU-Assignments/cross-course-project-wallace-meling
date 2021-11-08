@@ -49,6 +49,6 @@ body{
  flex-direction: row;
 }
 .images_s{
-    grid-column:fp1 fp1 fp1;
-    grid-row:fp1 fp1;
+   display:grid;
+   grid-template-columns: 1fr 1fr 1fr;
 }
