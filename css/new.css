@@ -46,14 +46,14 @@ body{
 }
 .games_homepage{
     display:grid;
-    max-height: 200;
+    max-height: 400px;
     max-width: auto;
     
 }
 .images{
-    max-width:600px;
-    max-height:auto;
     display:grid;
+    max-width:auto;
+    max-height:400px;
     grid-template-rows: 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr;
 }
