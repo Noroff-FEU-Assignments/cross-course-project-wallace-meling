@@ -43,7 +43,8 @@ body{
 }
 .games{
  outline:2px solid;
- display: inline;
+ display: flex;
  justify-content: space-between;
  outline: black
+ flex-direction: row;
 }
