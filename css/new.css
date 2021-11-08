@@ -46,7 +46,7 @@ body{
 }
 .games_homepage{
     display:grid;
-    max-height: 400px;
+    max-height: 200px;
     max-width: auto;
     
 }
