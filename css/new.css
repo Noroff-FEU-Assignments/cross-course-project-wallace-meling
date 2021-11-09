@@ -43,6 +43,7 @@ body{
 }
 .images_s{
    display:grid;
+   max-width: 1200px;
    grid-template-columns: 1fr 1fr 1fr;
    gap: 25px;
 }
