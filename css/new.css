@@ -42,7 +42,7 @@ body{
     background-color:#5861B2;
 }
 .images_s{
-   display:grid inline;
+   display:grid inline fixed;
    max-width: 1200px;
    grid-template-columns: 1fr 1fr 1fr;
    gap: 25px;
