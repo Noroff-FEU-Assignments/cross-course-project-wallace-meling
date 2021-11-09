@@ -79,3 +79,8 @@ main{
 .hardware_container{
     text-align: center;
 }
+footer{
+    text-align: center;
+    font-size: 6px;
+    text-decoration-color: black;
+}
