@@ -48,6 +48,9 @@ body{
    gap: 25px;
    outline: 2px solid black
 }
+.button_a{
+    position: bottom left;
+}
 .images_s img{
     max-width: 100%;
 }
