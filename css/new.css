@@ -41,8 +41,9 @@ body{
     background-color:#5861B2;
 }
 .images_s{
-   display:grid inline;
-   grid-template-columns: auto auto auto auto;
+   display:grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   gap: 25px;
 }
 .game{
     text-align: center;
