@@ -42,14 +42,17 @@ body{
     background-color:#5861B2;
 }
 .images_s{
-   display:grid;
+   display:grid inline;
    max-width: 1200px;
    grid-template-columns: 1fr 1fr 1fr;
    gap: 25px;
 }
-.game{
-    text-align: center;
+.images_s img{
     max-width: 100%;
+}
+.game_container{
+    text-align: center;
+
 }
 main{
     display:grid inline;
