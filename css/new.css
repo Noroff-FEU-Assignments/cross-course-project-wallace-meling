@@ -46,13 +46,11 @@ body{
    max-width: 1200px;
    grid-template-columns: 1fr 1fr 1fr;
    grid-template-rows: 1fr 1fr 1fr;
-   gap: 25px;
+   gap: 50px;
    outline: 2px solid black
 }
 .button_a{
     position: bottom left;
-    color: red;
-    background-color: red;
     
 }
 .images_s img{
