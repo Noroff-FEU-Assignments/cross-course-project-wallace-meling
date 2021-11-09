@@ -62,3 +62,6 @@ main{
     display:grid inline;
     grid-template-columns: auto auto auto auto;
 }
+h2{
+    display:inline;
+}
