@@ -63,5 +63,5 @@ main{
     grid-template-columns: auto auto auto auto;
 }
 h2{
-    display:block inline;
+    display:grid inline;
 }
