@@ -43,6 +43,6 @@ body{
 }
 .field{
     flex-direction:column;
-    position:column center;
+    position:center;
     
 }
