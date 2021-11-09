@@ -46,6 +46,7 @@ body{
    max-width: 1200px;
    grid-template-columns: 1fr 1fr 1fr;
    gap: 25px;
+   outline: 2px solid black
 }
 .images_s img{
     max-width: 100%;
