@@ -51,6 +51,9 @@ body{
 }
 .button_a{
     position: bottom left;
+    color: red;
+    border-radius:70%
+    
 }
 .images_s img{
     max-width: 100%;
