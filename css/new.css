@@ -79,3 +79,6 @@ footer{
    grid-template-columns: 1fr 1fr 1fr;
    gap: 25px;
 }
+.images{
+   display:inline-grid;
+}
