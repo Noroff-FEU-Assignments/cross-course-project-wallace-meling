@@ -68,17 +68,6 @@ main{
     display:grid inline;
 
 }
-.hardware{
-   display:grid inline fixed;
-   max-width: 1200px;
-   grid-template-columns: 1fr 1fr 1fr;
-   grid-template-rows: 1fr 1fr 1fr;
-   gap: 50px;
-   outline: 2px solid black
-}
-.hardware_container{
-    text-align: center;
-}
 footer{
     text-align: center;
     font-size: 12px;
