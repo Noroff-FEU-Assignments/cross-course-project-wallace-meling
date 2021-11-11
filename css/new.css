@@ -84,7 +84,12 @@ footer{
     font-size: 12px;
     text-decoration-color: black;
 }
-.images{
+.games{
+    display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   gap: 25px;
+}
+.hardware{
    display: grid;
    grid-template-columns: 1fr 1fr 1fr;
    gap: 25px;
