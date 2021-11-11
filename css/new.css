@@ -56,10 +56,6 @@ body{
 .images_s img{
     max-width: 100%;
 }
-.game_container{
-    text-align: center;
-
-}
 main{
     display:grid inline;
     grid-template-columns: auto auto auto auto;
@@ -79,7 +75,7 @@ footer{
    gap: 25px;
 }
 .hardware{
-   display: grid;
+   display: grid inline;
    grid-template-columns: 1fr 1fr 1fr;
    gap: 25px;
 }
