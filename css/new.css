@@ -68,7 +68,6 @@ footer{
     text-align: center;
     font-size: 12px;
     text-decoration-color: black;
-    max-width: fit-content;
 }
 .games{
     display: grid;
@@ -78,7 +77,7 @@ footer{
 .hardware{
    display: grid inline;
    grid-template-columns: 1fr 1fr 1fr;
-   gap: 25px;
+   gap: 10px;
 }
 .images{
    display:inline-grid;
