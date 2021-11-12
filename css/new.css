@@ -73,6 +73,8 @@ footer{
     display: grid;
    grid-template-columns: 1fr 1fr 1fr;
    gap: 10px;
+   background-color: rgb(12, 32, 117);
+   text-decoration-color: white
 }
 .hardware{
    display: grid inline;
