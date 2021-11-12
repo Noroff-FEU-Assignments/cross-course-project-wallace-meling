@@ -85,6 +85,7 @@ footer{
 .game_page{
     float:top left;
     margin:2px black;
+    display:inline;
 
 }
 .right_text{
