@@ -92,3 +92,6 @@ footer{
     display:inline-block;
     position:  relative top right;
 }
+.images_op{
+    display: inline center;
+}
