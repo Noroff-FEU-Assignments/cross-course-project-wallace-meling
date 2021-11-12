@@ -82,3 +82,8 @@ footer{
 .images{
    display:inline-grid;
 }
+.game_page{
+    float:top left;
+    margin:2px black;
+    
+}
