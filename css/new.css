@@ -95,3 +95,7 @@ footer{
 .images_op{
     display: inline center;
 }
+.button_cta{
+    background-color: red;
+    outline: black 1px
+}
