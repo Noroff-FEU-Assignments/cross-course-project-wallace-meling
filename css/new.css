@@ -70,7 +70,7 @@ footer{
     text-decoration-color: black;
 }
 .games{
-    display: grid;
+    display: grid inline;
    grid-template-columns: 1fr 1fr 1fr;
    gap: 10px;
 }
