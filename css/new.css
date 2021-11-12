@@ -88,6 +88,5 @@ footer{
 
 }
 .right_text{
-    float:top right;
-    
+    display:inline-block;
 }
