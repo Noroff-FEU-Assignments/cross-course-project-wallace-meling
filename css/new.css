@@ -83,7 +83,7 @@ footer{
    display:inline-grid;
 }
 .game_page{
-    float:top left;
+    float:top;
     margin:2px black;
     display:inline;
 
