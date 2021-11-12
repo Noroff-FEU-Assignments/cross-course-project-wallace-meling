@@ -88,6 +88,7 @@ footer{
     display:inline;
 
 }
-.right_text{
+.text_right{
     display:inline-block;
+    position:  relative top right;
 }
