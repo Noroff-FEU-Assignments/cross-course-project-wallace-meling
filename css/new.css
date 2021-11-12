@@ -68,6 +68,7 @@ footer{
     text-align: center;
     font-size: 12px;
     text-decoration-color: black;
+    max-width: fit-content;
 }
 .games{
     display: grid;
