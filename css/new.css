@@ -100,3 +100,6 @@ footer{
     outline: black 1px;
     text-decoration-color: white;
 }
+.fn{
+   display: inline center;
+}
