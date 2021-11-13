@@ -104,7 +104,8 @@ footer{
    text-align: center;
 }
 .profile{
-    place-content: center;
+    display:center;
+    text-align: center;
     max-width: 135px;
     max-height: 120px;
 }
