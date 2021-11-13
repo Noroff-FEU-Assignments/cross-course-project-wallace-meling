@@ -112,3 +112,8 @@ footer{
     text-align: center;
 
 }
+.gamebox{
+    outline:3px solid black;
+    display:flex inline;
+    display:center;
+}
