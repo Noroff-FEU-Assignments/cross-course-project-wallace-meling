@@ -103,3 +103,6 @@ footer{
 .fn{
    text-align: center;
 }
+.profile{
+    place-content: center;
+}
