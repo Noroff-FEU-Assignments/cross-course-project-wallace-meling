@@ -104,13 +104,11 @@ footer{
    text-align: center;
 }
 .profile{
-    display:grid inline;
+    display:flex inline;
     display:center;
     text-align: center;
-    max-width: 135px;
-    max-height: 120px;
 }
 .text{
     text-align: center;
-    
+
 }
