@@ -135,5 +135,6 @@ footer{
     color:black;
     display:center;
     text-align: center;
-    margin: 3px;
+    margin: 10px;
+    pad: 10px;
 }
