@@ -129,10 +129,11 @@ footer{
     text-decoration: none;
 }
 .profile_cta{
-    background-color:#5861B2;
+    background-color:whitesmoke;
     outline: black 1px solid;
     text-decoration-color:none;
     color:black;
     display:center;
     text-align: center;
+    margin: 3px;
 }
