@@ -108,6 +108,12 @@ footer{
     display:center;
     text-align: center;
 }
+.profile_2{
+    display:flex inline;
+    display:center;
+    text-align: center;
+    background-color:white;
+}
 .text{
     text-align: center;
 
