@@ -1,110 +1,165 @@
-.form__input {
-    display: block;
-}
-
-
-img {
-    width: 100%;
-    height: auto;
+*,*::before, *::after {
+    box-sizing: border-box; /* Holder content innenfor div */
   }
 
-head{
-    font-family: comic 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: floralwhite; 
-    padding: 10px;
-
+html{
+    background-color: #5861B2;
 }
-body {
-    background-color: #1D2540;
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0;
+    margin: 0;
 }
-body {
-    font-family: 'comic sans', Verdana, sans-serif;
+header img {
+    max-width: 70px;
 }
-nav li {
-    display: inline;
-    color: ghostwhite;
-    outline: ghostwhite;
-    text-decoration: underline;
-    float: right;
-    margin-left: 20px;
-    margin-right: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
-    
-}
-.header {
-    background-color: red;
-    mask-size: white
-}
-nav a {
-    color: floralwhite;
-    text-decoration: none;
-    padding: 10px;
-    
-}
-nav a:hover{
-    text-decoration: underline;
-    cursor: pointer;
-}
-.active{
-    background-color:  white;
-    color: red;
-    
-}
-.inactive{
-    background-color: red;
-    text-decoration: white;
-}
-main{
-    flex-direction: row;
-    flex-flow: row;
-    border-image-width: 150px;
-}
-img {
-    max-width: 300px;
-    min-width: 300px;
-    max-height: 300px;
-    min-height: 300px;
-    padding: 10px;
-    margin: 10px;
-    background-color: #1d2535
-} 
-.games {
+header{
+    padding: 1rem;
     display: flex;
-        flex: 1;
+    justify-content: space-between;
+    align-items: bottom;
+    background-color: red;
+    font-size:2rem;
 }
-.gamesb{
-    
-    float bottomright 
-    margin-left: 30px;
-    margin-top: 15px;
-    text-decoration: white;
+.li{
+    display: flex inline;
+
 }
-.field{
-    text-decoration: white;
-    background: color #1d2535;
+nav li{
+    display: inline;
+    text-decoration: underline;
+    font-size: 1rem;
 }
-#header{
-    box-sizing: 500px;
-    max-height: 100px;
-    justify-content: 100px;
-    flex:content
-    img-responsive
-    object-fit: cover;
-    width: 500px;
-    height: 80px;
+.inactive {
+    color:black !important;
+    background-color:red;
+    padding:10px;
 }
-#logo{
-  margin-bottom: 0;
-   width: 30%;
-   height: 30%;
-   image-sizing 34vw;
-   object-fit: cover;
-   width: 30%;
-   height: 80px;
+.active {
+    color:black;
+    background-color: red;
+    padding: 10px;
+    border:solid black;
 }
 
+a:-webkit-any-link {
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+}
+nav,
+#hamburger{
+    display: none;
+}
+#hamburger:checked ~ nav {
+    display: block;
+}
+nav{
+    position: absolute;
+    right: 0%;
+}
+
+/* Main Content */
+/* =========================== */
+h1 {text-align: center;}
+
+.main-content{
+    max-width:800px; 
+    margin: 0 auto;
+}
+
+section {
+    display:flex;
+    flex-direction: column;
+}
+
+.main-content p{
+    background: white;
+    border: solid 1px black;
+    padding: 5px;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.main-content img{
+    width: 100%;
+    background: #fff;
+    padding: 1rem;
+    outline: solid;
+    margin-bottom: 1rem;
+}
+.location{
+    text-decoration: underline !important;
+    color: blue !important;
+}
+
+/* Footer */
+/* =========================== */
 footer{
     text-align: center;
-    font-size 6px
+    font-size: 12px;
+    text-decoration-color: black;
+}
+
+/* Contact */
+form {
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+fieldset {
+    padding: 0;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+fieldset input {
+    width: 48%;
+}
+.form-message {
+    height: 3rem;
+}
+
+#contact {
+    padding: 2rem 2rem;
+    background: white;
+}
+
+input[type=submit] {
+    height: 3rem;
+    margin-top: 1rem;
+    border: none;
+    background: lightseagreen;
+    width: 10rem;
+    color: white;
+    border-radius: 5px;
+}
+
+.contact-form {
+    display: flex;
+}
+
+.contact-intro{
+    padding: 1rem;
+    font-size: 20px;
+    text-align: center;
+    border: none !important;
+}
+.contact-form p {
+    color: white;
+    background: none;
+    border:none;
+    font-size: 20px;
+    margin-bottom: 0.2rem;
+}
+.contact-form span {
+    font-weight: bold;
+}
+.details {
+    margin-right: 1rem;
+    padding: 2rem;
+    background: lightseagreen;
 }
