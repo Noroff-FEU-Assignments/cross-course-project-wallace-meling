@@ -11,7 +11,7 @@ body{
     margin: 0;
 }
 header img {
-    max-width: 70px;
+    max-width: 100px;
 }
 header{
     padding: 1rem;
@@ -69,7 +69,7 @@ h1 {text-align: center;}
 }
 
 section {
-    display:flex;
+    display:flex grid;
     flex-direction: column;
 }
 
@@ -81,7 +81,7 @@ section {
     margin-bottom: 1rem;
 }
 
-.main-content img{
+.images img{
     width: 100%;
     background: #fff;
     padding: 1rem;
