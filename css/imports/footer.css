@@ -8,7 +8,7 @@ body {
   }
   
   footer {
-    background-color: var(--orange);
+    background-color: #ff0000;
     padding-bottom: 10vh;
     margin-top: auto;
     margin-top: 10vh;
@@ -18,12 +18,11 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     height: 10vh;
-    color: var(--darkblue);
+    color: #1b203d;
   }
   .footer-gamehub,
   .footer-support,
-  .footer-sitemap,
-  .footer-socials {
+  .footer-sitemap {
     margin-left: 4vw;
     padding: 0 5%;
     display: flex;
@@ -34,23 +33,15 @@ body {
     margin-bottom: 1vh;
     font-size: 2vh;
     font-weight: bolder;
-    font-family: "Avenir", sans-serif;
+    font-family: "Oswald", sans-serif;
   }
   .container div a {
-    color: var(--darkblue);
+    color: #1b203d;
     margin-bottom: 0.25vh;
     font-size: 1.5vh;
-    font-family: "Avenir", sans-serif;
+    font-family: "Oswald", sans-serif;
   }
-  .footer-socials {
-    margin-top: 1vh;
-  }
-  .container .footer-socials a {
-    font-size: 2.3vh;
-  }
-  
-  /*----- HOVER EFFECTS -----*/
-  
+ 
   .container div a:hover {
     font-size: 1.7vh;
     transition: 0.3s ease-out;
@@ -67,15 +58,12 @@ body {
       flex-direction: row;
       break-before: always;
     }
-    .container .footer-socials a {
-      padding: 0 3vw;
-    }
+  
   }
   @media (max-width: 513px) {
     .footer-gamehub,
     .footer-support,
-    .footer-sitemap,
-    .footer-socials {
+    .footer-sitemap{
       padding: 0 1vw;
     }
   }
@@ -87,10 +75,10 @@ body {
     .footer-h2 {
       font-size: 1.5vw;
     }
-    .container .footer-socials a {
+    .container a {
       font-size: 1.5vw;
     }
-    .container .footer-socials a:hover {
+    .container  a:hover {
       font-size: 1.6vw;
       transition: 0.3s ease-out;
     }

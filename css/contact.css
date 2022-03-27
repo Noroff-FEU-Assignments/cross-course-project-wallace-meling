@@ -1,0 +1,69 @@
+@import "imports/footer.css";
+@import "imports/nav.css";
+@import "index.css";
+
+.contact-text {
+    font-family: "Oswald", sans-serif;
+}
+
+
+.contact-form {
+    max-width: 800px;
+    margin: auto;
+    padding: 0 10px;
+}
+.contact-text{
+    display: block;
+    width: 100%;
+    margin: 16px 0;
+    border: 0;
+    background: #414979;
+    padding: 20px 40px;
+    outline: none;
+    color: black;
+    font-family: "Oswald", sans-serif;
+    transition: 0.2s;
+    height: 60px;
+}
+.contact-text:focus {
+    font-size: 16px;
+}
+
+textarea.contact-text{
+    resize: none;
+    height: 200px;
+}
+
+.contact-form-button {
+    display: flex;
+    margin: 0 auto;
+    background: #1b203d;
+    color: #414979;
+    font-size: 1.5vw;
+    font-weight: lighter;
+    border-radius: 45px;
+    padding: 1.5vh 10vw 1.5vh 10vw;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    text-decoration: none;
+    border: 0;
+    cursor: pointer;
+}
+
+.contact-form-btn:hover {
+    padding: 1.7vh 10.2vw 1.7vh 10.2vw;
+    color: red;
+}
+
+/*-------- MEDIA QUERIES ---------*/
+@media (max-width: 828px) {
+    .contact-form-btn {
+        padding: 1.5vh 9vh 1.5vh 9vh;
+        font-size: 1.5vh;
+    }
+    .contact-form-btn:hover {
+        padding: 1.6vh 9.1vh 1.6vh 9.1vh;        
+        color: red;
+    }
+}

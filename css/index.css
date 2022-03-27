@@ -1,5 +1,5 @@
 @import "imports/footer.css";
-@import "imports/nav.css"
+@import "imports/nav.css";
 
  .banner {
     margin: 72px auto;
@@ -106,7 +106,6 @@
     border-bottom: 2px solid #1b203d;
   }
   
-  /*-------- HOVER EFFECTS ---------*/
   .nav-center li a:hover {
     font-size: 1.9em;
     transition: 0.3s ease-out;
@@ -310,4 +309,3 @@ body {
       grid-column-end: span 6;
     }
   }
- 
