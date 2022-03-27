@@ -7,7 +7,7 @@
     display: flex;
     justify-content: space-between;
     align-items: bottom;
-    background-color: red;
+    background-color: rgb(255, 0, 0);
     font-size:2rem;
 }
 .logo{
